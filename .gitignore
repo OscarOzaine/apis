@@ -1,0 +1,5 @@
+representatives/*
+rest-representatives/rest-representatives/env/*
+rest-representatives/db.sqlite3
+*.pyc
+*.sqlite3
